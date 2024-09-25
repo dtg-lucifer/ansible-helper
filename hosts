@@ -1,0 +1,3 @@
+[azurevm]
+xxx.xx.x.xxx ansible_user=piush ansible_ssh_pass=bosepiush
+
